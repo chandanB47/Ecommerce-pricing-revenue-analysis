@@ -104,7 +104,16 @@ Key preprocessing steps:
 - Inventory Pressure Impact on Revenue
 - Discount vs Revenue by Sales Event
 
-*(Dashboard screenshots available in the `images/` folder)*
+## 📊 Power BI Dashboards
+
+### 📌 Executive Overview
+![Executive Overview](https://raw.githubusercontent.com/chandanB47/Ecommerce-pricing-revenue-analysis/main/Executive%20Overview.png)
+
+### 💰 Executive Pricing Overview
+![Executive Pricing Overview](https://raw.githubusercontent.com/chandanB47/Ecommerce-pricing-revenue-analysis/main/Executive%20Pricing%20Overview.png)
+
+### 👥 Customer, Pricing & Demand Insights
+![Customer Pricing Demand Insights](https://raw.githubusercontent.com/chandanB47/Ecommerce-pricing-revenue-analysis/main/Customer%2C%20Pricing%20%26%20Demand%20Insights.png)
 
 ---
 
@@ -118,7 +127,14 @@ Key preprocessing steps:
 
 ---
 
-## 📁 Repository Structure
+## ✅ Conclusion
+
+This project demonstrates a full-cycle analytics workflow—from raw transactional data to executive-ready insights. By combining SQL-based data preparation and advanced analytical queries with interactive Power BI dashboards, the analysis uncovers how pricing strategy, inventory availability, customer demographics, and geography collectively drive revenue performance.
+
+The insights highlight that revenue growth is primarily influenced by product mix, inventory pressure, and targeted customer segments rather than aggressive discounting alone. The dashboards are designed to support strategic decision-making across pricing optimization, demand planning, inventory management, and regional expansion.
+
+Overall, this project reflects real-world business analytics practices and showcases the ability to translate complex data into actionable insights for stakeholders.
+
 
 ---
 
